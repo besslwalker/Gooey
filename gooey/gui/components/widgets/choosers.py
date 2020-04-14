@@ -4,6 +4,7 @@ from gooey.gui.components.widgets.bases import TextContainer, BaseChooser
 
 __ALL__ = [
     'FileChooser',
+    'MultiFileChooser',
     'FileSaver',
     'DirChooser',
     'MultiDirChooser',
